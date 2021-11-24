@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace P3_2_1184018
+namespace P3_2_1184037
 {
     public partial class ChildForm : Form
     {
