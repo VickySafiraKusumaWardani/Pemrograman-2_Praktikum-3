@@ -1,0 +1,20 @@
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\bin\Debug\P3_4_saya.exe.config
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\bin\Debug\P3_4_saya.exe
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\bin\Debug\P3_4_saya.pdb
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.csproj.AssemblyReference.cache
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.Form1.resources
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.Properties.Resources.resources
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.csproj.GenerateResource.cache
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.csproj.CoreCompileInputs.cache
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.exe
+C:\Users\Aftershock\source\repos\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.pdb
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\bin\Debug\P3_4_saya.exe.config
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.exe
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.pdb
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\bin\Debug\P3_4_saya.exe
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\bin\Debug\P3_4_saya.pdb
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.Form1.resources
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.Properties.Resources.resources
+C:\Users\toshiba\Downloads\tugas 2\Pratikum3_OOP-main\P3_4_saya\P3_4_saya\obj\Debug\P3_4_saya.csproj.GenerateResource.Cache
