@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace P3_4_saya
+namespace P3_4_1184037
 {
     public partial class Form1 : Form
     {
