@@ -1,4 +1,4 @@
-﻿namespace P3_4_saya
+﻿namespace P3_4_1184037
 {
     partial class Form1
     {
